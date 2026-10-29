@@ -63,4 +63,4 @@
 ---
 ##  个人总结与思考
 1. **Prompt 即代码**：在企业级应用中，Prompt 不应是随意书写的，而应当像代码一样进行版本控制、A/B 测试和效果评估。
-2. **Tool Calling 中的 Prompt**：在开发 Agent 时，工具的  `description`  本质上就是 Prompt 的一部分。工具描述写得越清晰，大模型判断何时调用该工具的准确率就越高。
+2. **Tool Calling 中的 Prompt**：在开发 Agent 时，工具的description本质上就是 Prompt 的一部分。工具描述写得越清晰，大模型判断何时调用该工具的准确率就越高。
